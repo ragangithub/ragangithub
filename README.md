@@ -1,9 +1,9 @@
-## Hi there, I'm Juliana...
+## Hi there, I'm Ragan...
 
 - 👩‍💻 pronouns: "he or him"
 - 🔭 I’m an industrious, hard-working and diligent full-stack software developer.
 - 👩‍🎓 I am currently learning at [Microverse Inc](https://github.com/microverseinc)
-- :computer: current anguage stack i am learning: JavaScript, React, Ruby, Rails.
+- :computer: current language stack i am learning: JavaScript, React, Ruby, Rails.
 - 🌱 Over the years, I have worked in various roles where the need to be flexible have been vital.
 - :book: I love visuals and audio books
 - 👩‍🍳 I cook during my free time
@@ -16,11 +16,11 @@
 
 <h3 align="left">GitHub Statistics:</h3>
 
-<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ragangithub&show_icons=true&theme=vue&locale=en" alt="ragan" /></p>
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ragangithub&show_icons=true&theme=vue&locale=en" alt="Ragan" /></p>
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ragangithub&theme=vue" alt="ragan" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ragangithub&theme=vue" alt="Ragan" /></p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julie-ify&layout=compact&theme=vue"</p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragangithub&layout=compact&theme=vue"</p>
 
 <h3 align="left">Let's Connect 🤝</h3>
 <div align="left">
