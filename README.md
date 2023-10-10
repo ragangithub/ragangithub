@@ -2,7 +2,6 @@
 
 - 👩‍💻 pronouns: "he or him"
 - 🔭 I’m an industrious, hard-working and diligent full-stack software developer.
-- 👩‍🎓 I am currently learning at [Microverse Inc](https://github.com/microverseinc)
 - :computer: current language stack i am learning: JavaScript, React, Ruby, Rails.
 - 🌱 Over the years, I have worked in various roles where the need to be flexible have been vital.
 - :book: I love visuals and audio books
